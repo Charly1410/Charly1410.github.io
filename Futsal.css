@@ -1,0 +1,35 @@
+
+body{
+text-align: center;
+background-color: red;
+}
+
+.agrupar{
+width: 50%;
+margin: 10px auto;
+border: 20px solid red;
+background: white;
+}
+
+Menu{
+  padding: 10px;
+  text-align: center;
+}
+
+.menu li{
+  list-style: none;
+  padding: 5px;
+  font: bold 30px verdana;
+  display: inline-block;
+  border: 2px solid black;
+  background-color: gold;
+}
+
+.cuerpo {
+  margin:60px;
+  width: 600px;
+  padding: 5px;
+  float: left;
+  border: 2px solid black;
+  background-color: gold;
+}
